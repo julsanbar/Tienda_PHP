@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+
+    background: rgba(37, 36, 36, 0.301);
+    font-family: 'Noto Sans SC', sans-serif;
+    height: 100%;
+    width: 100%;
+    background-size: auto;
+    
+}
+
+.error{
+
+    background: tomato;
+    color: white;
+
+}
+
+.noSesion{
+
+    background: rgba(255, 166, 0, 0.699);
+
+}
